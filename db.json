@@ -14,6 +14,16 @@
       "id": 3,
       "name": "Samsumg S20",
       "price": 5000
+    },
+    {
+      "name": "Produto de teste",
+      "price": 125.98,
+      "id": 4
+    },
+    {
+      "name": "Produto de teste",
+      "price": 125.98,
+      "id": 5
     }
   ]
 }
