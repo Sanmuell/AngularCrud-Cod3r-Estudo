@@ -29,6 +29,11 @@
       "name": "Teste de Formulario",
       "price": "9.99",
       "id": 6
+    },
+    {
+      "name": "Geral",
+      "price": "500",
+      "id": 7
     }
   ]
 }

@@ -18,11 +18,13 @@ import { ProductCrudComponent } from './views/product-crud/product-crud.componen
 import { RedDirective } from './directives/red.directive';
 import { ProductCreateComponent } from './components/product/product-create/product-create.component';
 import { HttpClientModule } from '@angular/common/http';
+import { MatTableModule } from '@angular/material/table'
+
 
 import { FormsModule } from '@angular/forms'
 import { MatInputModule } from '@angular/material/input'
 import { MatFormFieldModule } from '@angular/material/form-field';
-import { ProductReadComponent } from './components/products/product/product-read/product-read.component'
+import { ProductReadComponent } from './components/product/product-read/product-read.component'
 
 @NgModule({
   declarations: [
@@ -49,7 +51,8 @@ import { ProductReadComponent } from './components/products/product/product-read
     HttpClientModule,
     FormsModule,
     MatFormFieldModule,
-    MatInputModule
+    MatInputModule,
+    MatTableModule
   ],
   providers: [],
   bootstrap: [AppComponent]
