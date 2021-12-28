@@ -2,8 +2,8 @@
   "Products": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 5.89
+      "name": "Caneta BIC Azul",
+      "price": "1000.00"
     },
     {
       "id": 2,
