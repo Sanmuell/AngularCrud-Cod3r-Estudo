@@ -24,6 +24,11 @@
       "name": "Geral",
       "price": "500",
       "id": 7
+    },
+    {
+      "name": "Sanmuell Sousa",
+      "price": "9.99",
+      "id": 8
     }
   ]
 }
