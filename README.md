@@ -1,7 +1,7 @@
 ##COMO INSTALAR 
 
 <ul>
-  <li>Baixe ou clone este repositório usando git clone</li>
+  <li>Baixe ou clone este repositório usando git clone https://github.com/Sanmuell/AngularCrud-Cod3r-Estudo.git</li>
   <li>Dentro do diretório, instale as dependências usando npm install;</li>
 </ul>
 
