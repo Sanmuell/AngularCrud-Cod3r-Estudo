@@ -9,5 +9,5 @@
 ##COMO EXECUTAR 
 <ul>
 <li>Execute ng serve dentro da pasta FRONTEND.</li>  
-<li>Executa *npm run* dentro da pasta BACKEND.</li>
+<li>Executa *npm* run* dentro da pasta BACKEND.</li>
 </ul>
