@@ -8,6 +8,6 @@
 
 ##COMO EXECUTAR 
 <ul>
-<li>Execute **ng serve** dentro da pasta FRONTEND.</li>  
+<li>Execute **ng serve** dentro da pasta FRONTEND. Irá abrir na url http://localhost:4200/</li>  
 <li>Executa **npm run** dentro da pasta BACKEND.</li>
 </ul>
