@@ -11,3 +11,8 @@
 *Executa npm run dentro da pasta BACKEND.
 
 *Para executar o servidor de endpoints de API, em um outro terminal na mesma pasta execute npm run json-server. 
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>
