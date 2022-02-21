@@ -1,4 +1,4 @@
-##**COMO INSTALAR** 
+##COMO INSTALAR 
 
 <ul>
   <li>Baixe ou clone este repositório usando git clone</li>
