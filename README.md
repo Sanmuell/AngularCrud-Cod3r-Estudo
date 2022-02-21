@@ -1,8 +1,9 @@
 ##**COMO INSTALAR** 
 
+<ul>
 *Baixe ou clone este repositório usando git clone 
 *Dentro do diretório, instale as dependências usando npm install.
-
+</ul>
 
 
 ##COMO EXECUTAR 
