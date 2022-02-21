@@ -1,6 +1,9 @@
 ##**COMO INSTALAR** 
+
 *Baixe ou clone este repositório usando git clone 
 *Dentro do diretório, instale as dependências usando npm install.
+
+
 
 ##COMO EXECUTAR 
 *Execute ng serve dentro da pasta FRONTEND.  
